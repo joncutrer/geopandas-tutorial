@@ -1,5 +1,5 @@
 # geopandas-tutorial
-Learn how ingest and plot shapefiles using the geopandas library in python.  This collection of juptyer notebooks supports several articles that I have written over at [https://jcutrer.com/python]
+Learn how to ingest and plot shapefiles using the geopandas library in python.  This collection of juptyer notebooks supports several articles that I have written over at [https://jcutrer.com/python]
 
 
 
