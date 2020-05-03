@@ -5,7 +5,7 @@ Learn how to ingest and plot shapefiles using the geopandas library in python.  
 
 ## Related Blog Posts
 
-* [Learn geopandas by plotting U.S Maps](https://jcutrer.com/python) - Currently drafting
+* [Learn geopandas by plotting U.S Maps](https://jcutrer.com/python/learn-geopandas-plotting-usmaps)
 * [Learn geopandas by plotting tornados on a map](https://jcutrer.com/python/learn-geopandas-plotting-tornados) - Currently drafting
 
 
