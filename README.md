@@ -1,6 +1,6 @@
 # geopandas tutorial
 
-Learn how to ingest and plot shapefiles using the geopandas library in python.  This collection of juptyer notebooks support several articles that I have written over at [https://jcutrer.com/python]
+Learn how to ingest and plot shapefiles using the geopandas library in python.  This collection of juptyer notebooks support several articles that I have written over at https://jcutrer.com/python/
 
 
 ## Related Blog Posts
@@ -11,8 +11,8 @@ Learn how to ingest and plot shapefiles using the geopandas library in python.  
 
 ## Notebook Files
 
-* geopandas-us-map.ipynb - Working with U.S. Census shapefiles
-* geopandas-plot-us-tornados.ipynb - Learn to plot NOAA provided U.S. tornado data
+* [geopandas-us-map.ipynb](https://github.com/joncutrer/geopandas-tutorial/blob/master/geopandas-us-map.ipynb) - Working with U.S. Census shapefiles
+* [geopandas-plot-us-tornados.ipynb](https://github.com/joncutrer/geopandas-tutorial/blob/master/geopandas-plot-us-tornados.ipynb) - Learn to plot NOAA provided U.S. tornado data
 
 ---
 
